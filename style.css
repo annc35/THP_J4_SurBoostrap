@@ -1,0 +1,32 @@
+.jumbotron
+{
+    justify-content: center;
+    height: 400px;
+    background-color: white;
+}
+
+.footer2{
+    background-color: #2C2F34;
+}
+
+.footer1{
+    background-color: white;
+  }
+
+h3{
+    justify-content: center;
+}
+
+.jumbotron
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    background-color: white;
+    background-image: url(images/accueil.jpg)
+}
+
+.author
+{
+    font-size: small
+}
